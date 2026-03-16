@@ -102,7 +102,7 @@ MobilePrompt v1.0, bilgisayarınızı Telegram üzerinden yönetmenizi sağlayan
 <div align="center">
   <p>
     <a href="https://multidesign.com.tr" target="_blank">multidesign.com.tr</a> • 
-    <a href="https://github.com/eness" target="_blank">GitHub</a> • 
+    <a href="https://github.com/sahiinenes" target="_blank">GitHub</a> • 
     <a href="https://linkedin.com/in/sahiinenes" target="_blank">LinkedIn</a>
   </p>
 </div>
