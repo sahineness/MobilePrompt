@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/0B0E14/00D1FF?text=MP" alt="MobilePrompt Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0,209,255,0.4);">
+  <img src="logo.png" alt="MobilePrompt Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 0 20px rgba(0,209,255,0.4);">
   <br/>
   <h1>🚀 MobilePrompt v1.0</h1>
   <p><strong>Your PC, in your pocket. The ultimate Mobile-to-PC AI Orchestrator.</strong></p>
