@@ -1,0 +1,46 @@
+# Wails Build output
+build/bin/
+build/windows/
+
+# Node modules
+node_modules/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config and Sensitive Info
+config.json
+ayarlar.json
+*.env
+.env*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+*.exe
+*.dll
+*.app
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# Frontend assets/dist
+frontend/dist/
+frontend/wailsjs/
+
+# Temporary files & Logs
+*.log
+tmp/
+Cikti/
+MobilePrompt_Cikti/
+MultiDesign_Cikti/
+dev_log.txt
+frontend/build_error.txt
+.antigravityignore
